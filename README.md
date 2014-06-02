@@ -1,4 +1,4 @@
-### Forked Repository ###
+### custom_v1 branch ###
 The new ShowcaseView (v5.0)
 ====
 
